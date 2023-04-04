@@ -16,4 +16,4 @@ This is a simple command-line application that generates a basic logo consisting
 
 ## Video Demonstration
 
-[Link to video demonstration of the application](https://www.example.com/video)
+[Link to video demonstration of the application](https://streamable.com/bqf9th)
